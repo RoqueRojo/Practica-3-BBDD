@@ -1,0 +1,107 @@
+C:\Users\Roque\Desktop\PRactica Compartida\TrenesP3-\practica3\practica3\bin\Debug\practica3.exe.config
+C:\Users\Roque\Desktop\PRactica Compartida\TrenesP3-\practica3\practica3\bin\Debug\practica3.exe
+C:\Users\Roque\Desktop\PRactica Compartida\TrenesP3-\practica3\practica3\bin\Debug\practica3.pdb
+C:\Users\Roque\Desktop\PRactica Compartida\TrenesP3-\practica3\practica3\bin\Debug\practica3.xml
+C:\Users\Roque\Desktop\PRactica Compartida\TrenesP3-\practica3\practica3\obj\Debug\practica3.vbprojAssemblyReference.cache
+C:\Users\Roque\Desktop\PRactica Compartida\TrenesP3-\practica3\practica3\obj\Debug\practica3.Resources.resources
+C:\Users\Roque\Desktop\PRactica Compartida\TrenesP3-\practica3\practica3\obj\Debug\practica3.Inicio.resources
+C:\Users\Roque\Desktop\PRactica Compartida\TrenesP3-\practica3\practica3\obj\Debug\practica3.vbproj.GenerateResource.cache
+C:\Users\Roque\Desktop\PRactica Compartida\TrenesP3-\practica3\practica3\obj\Debug\practica3.exe
+C:\Users\Roque\Desktop\PRactica Compartida\TrenesP3-\practica3\practica3\obj\Debug\practica3.xml
+C:\Users\Roque\Desktop\PRactica Compartida\TrenesP3-\practica3\practica3\obj\Debug\practica3.pdb
+C:\BD\practica3\practica3\bin\Debug\practica3.exe.config
+C:\BD\practica3\practica3\obj\Debug\practica3.exe
+C:\BD\practica3\practica3\obj\Debug\practica3.xml
+C:\BD\practica3\practica3\obj\Debug\practica3.pdb
+C:\BD\practica3\practica3\obj\Debug\practica3.vbprojResolveAssemblyReference.cache
+C:\BD\practica3\practica3\obj\Debug\practica3.Resources.resources
+C:\BD\practica3\practica3\obj\Debug\practica3.Inicio.resources
+C:\BD\practica3\practica3\obj\Debug\practica3.vbproj.GenerateResource.Cache
+C:\BD\practica3\practica3\bin\Debug\practica3.exe
+C:\BD\practica3\practica3\bin\Debug\practica3.pdb
+C:\BD\practica3\practica3\bin\Debug\practica3.xml
+C:\Users\Roque\Desktop\practica3\practica3\bin\Debug\practica3.exe.config
+C:\Users\Roque\Desktop\practica3\practica3\bin\Debug\practica3.exe
+C:\Users\Roque\Desktop\practica3\practica3\bin\Debug\practica3.pdb
+C:\Users\Roque\Desktop\practica3\practica3\bin\Debug\practica3.xml
+C:\Users\Roque\Desktop\practica3\practica3\obj\Debug\practica3.vbprojAssemblyReference.cache
+C:\Users\Roque\Desktop\practica3\practica3\obj\Debug\practica3.Resources.resources
+C:\Users\Roque\Desktop\practica3\practica3\obj\Debug\practica3.Inicio.resources
+C:\Users\Roque\Desktop\practica3\practica3\obj\Debug\practica3.vbproj.GenerateResource.cache
+C:\Users\Roque\Desktop\practica3\practica3\obj\Debug\practica3.exe
+C:\Users\Roque\Desktop\practica3\practica3\obj\Debug\practica3.xml
+C:\Users\Roque\Desktop\practica3\practica3\obj\Debug\practica3.pdb
+C:\Users\Roque\Desktop\Practica 3 BBDD\practica3\bin\Debug\practica3.exe.config
+C:\Users\Roque\Desktop\Practica 3 BBDD\practica3\bin\Debug\practica3.exe
+C:\Users\Roque\Desktop\Practica 3 BBDD\practica3\bin\Debug\practica3.pdb
+C:\Users\Roque\Desktop\Practica 3 BBDD\practica3\bin\Debug\practica3.xml
+C:\Users\Roque\Desktop\Practica 3 BBDD\practica3\obj\Debug\practica3.vbprojAssemblyReference.cache
+C:\Users\Roque\Desktop\Practica 3 BBDD\practica3\obj\Debug\practica3.Resources.resources
+C:\Users\Roque\Desktop\Practica 3 BBDD\practica3\obj\Debug\practica3.Inicio.resources
+C:\Users\Roque\Desktop\Practica 3 BBDD\practica3\obj\Debug\practica3.vbproj.GenerateResource.cache
+C:\Users\Roque\Desktop\Practica 3 BBDD\practica3\obj\Debug\practica3.exe
+C:\Users\Roque\Desktop\Practica 3 BBDD\practica3\obj\Debug\practica3.xml
+C:\Users\Roque\Desktop\Practica 3 BBDD\practica3\obj\Debug\practica3.pdb
+C:\Users\Roque\Desktop\Practica 3 BBDD\practica3\obj\Debug\practica3.vbproj.CoreCompileInputs.cache
+C:\Users\IsabelDM\Desktop\nueva p3\Practica 3 BBDD\practica3\bin\Debug\practica3.exe.config
+C:\Users\IsabelDM\Desktop\nueva p3\Practica 3 BBDD\practica3\bin\Debug\practica3.exe
+C:\Users\IsabelDM\Desktop\nueva p3\Practica 3 BBDD\practica3\bin\Debug\practica3.pdb
+C:\Users\IsabelDM\Desktop\nueva p3\Practica 3 BBDD\practica3\bin\Debug\practica3.xml
+C:\Users\IsabelDM\Desktop\nueva p3\Practica 3 BBDD\practica3\obj\Debug\practica3.vbprojAssemblyReference.cache
+C:\Users\IsabelDM\Desktop\nueva p3\Practica 3 BBDD\practica3\obj\Debug\practica3.Resources.resources
+C:\Users\IsabelDM\Desktop\nueva p3\Practica 3 BBDD\practica3\obj\Debug\practica3.FGeneral.resources
+C:\Users\IsabelDM\Desktop\nueva p3\Practica 3 BBDD\practica3\obj\Debug\practica3.vbproj.GenerateResource.cache
+C:\Users\IsabelDM\Desktop\nueva p3\Practica 3 BBDD\practica3\obj\Debug\practica3.exe
+C:\Users\IsabelDM\Desktop\nueva p3\Practica 3 BBDD\practica3\obj\Debug\practica3.xml
+C:\Users\IsabelDM\Desktop\nueva p3\Practica 3 BBDD\practica3\obj\Debug\practica3.pdb
+C:\Users\IsabelDM\Desktop\nueva p3\Practica 3 BBDD\practica3\obj\Debug\practica3.FInicio.resources
+C:\Users\IsabelDM\Desktop\nueva p3\Practica 3 BBDD\practica3\bin\Debug\es-ES\practica3.resources.dll
+C:\Users\IsabelDM\Desktop\nueva p3\Practica 3 BBDD\practica3\obj\Debug\practica3.FInicio.es-ES.resources
+C:\Users\IsabelDM\Desktop\nueva p3\Practica 3 BBDD\practica3\obj\Debug\es-ES\practica3.resources.dll
+C:\Users\Roque\Desktop\Nueva carpeta\Practica 3 BBDD\practica3\bin\Debug\practica3.exe.config
+C:\Users\Roque\Desktop\Nueva carpeta\Practica 3 BBDD\practica3\bin\Debug\practica3.exe
+C:\Users\Roque\Desktop\Nueva carpeta\Practica 3 BBDD\practica3\bin\Debug\practica3.pdb
+C:\Users\Roque\Desktop\Nueva carpeta\Practica 3 BBDD\practica3\bin\Debug\practica3.xml
+C:\Users\Roque\Desktop\Nueva carpeta\Practica 3 BBDD\practica3\bin\Debug\es-ES\practica3.resources.dll
+C:\Users\Roque\Desktop\Nueva carpeta\Practica 3 BBDD\practica3\obj\Debug\practica3.vbprojAssemblyReference.cache
+C:\Users\Roque\Desktop\Nueva carpeta\Practica 3 BBDD\practica3\obj\Debug\practica3.Resources.resources
+C:\Users\Roque\Desktop\Nueva carpeta\Practica 3 BBDD\practica3\obj\Debug\practica3.FGeneral.resources
+C:\Users\Roque\Desktop\Nueva carpeta\Practica 3 BBDD\practica3\obj\Debug\practica3.FInicio.resources
+C:\Users\Roque\Desktop\Nueva carpeta\Practica 3 BBDD\practica3\obj\Debug\practica3.FInicio.es-ES.resources
+C:\Users\Roque\Desktop\Nueva carpeta\Practica 3 BBDD\practica3\obj\Debug\practica3.vbproj.GenerateResource.cache
+C:\Users\Roque\Desktop\Nueva carpeta\Practica 3 BBDD\practica3\obj\Debug\practica3.vbproj.CoreCompileInputs.cache
+C:\Users\Roque\Desktop\Nueva carpeta\Practica 3 BBDD\practica3\obj\Debug\es-ES\practica3.resources.dll
+C:\Users\Roque\Desktop\Nueva carpeta\Practica 3 BBDD\practica3\obj\Debug\practica3.exe
+C:\Users\Roque\Desktop\Nueva carpeta\Practica 3 BBDD\practica3\obj\Debug\practica3.xml
+C:\Users\Roque\Desktop\Nueva carpeta\Practica 3 BBDD\practica3\obj\Debug\practica3.pdb
+C:\Users\IsabelDM\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\bin\Debug\practica3.exe.config
+C:\Users\IsabelDM\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\bin\Debug\practica3.exe
+C:\Users\IsabelDM\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\bin\Debug\practica3.pdb
+C:\Users\IsabelDM\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\bin\Debug\practica3.xml
+C:\Users\IsabelDM\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\bin\Debug\es-ES\practica3.resources.dll
+C:\Users\IsabelDM\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\obj\Debug\practica3.vbprojAssemblyReference.cache
+C:\Users\IsabelDM\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\obj\Debug\practica3.Resources.resources
+C:\Users\IsabelDM\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\obj\Debug\practica3.FGeneral.resources
+C:\Users\IsabelDM\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\obj\Debug\practica3.FInicio.resources
+C:\Users\IsabelDM\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\obj\Debug\practica3.FInicio.es-ES.resources
+C:\Users\IsabelDM\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\obj\Debug\practica3.vbproj.GenerateResource.cache
+C:\Users\IsabelDM\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\obj\Debug\es-ES\practica3.resources.dll
+C:\Users\IsabelDM\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\obj\Debug\practica3.exe
+C:\Users\IsabelDM\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\obj\Debug\practica3.xml
+C:\Users\IsabelDM\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\obj\Debug\practica3.pdb
+C:\Users\Roque\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\bin\Debug\practica3.exe.config
+C:\Users\Roque\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\bin\Debug\practica3.exe
+C:\Users\Roque\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\bin\Debug\practica3.pdb
+C:\Users\Roque\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\bin\Debug\practica3.xml
+C:\Users\Roque\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\bin\Debug\es-ES\practica3.resources.dll
+C:\Users\Roque\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\obj\Debug\practica3.vbprojAssemblyReference.cache
+C:\Users\Roque\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\obj\Debug\practica3.Resources.resources
+C:\Users\Roque\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\obj\Debug\practica3.FGeneral.resources
+C:\Users\Roque\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\obj\Debug\practica3.FInicio.resources
+C:\Users\Roque\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\obj\Debug\practica3.FInicio.es-ES.resources
+C:\Users\Roque\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\obj\Debug\practica3.vbproj.GenerateResource.cache
+C:\Users\Roque\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\obj\Debug\practica3.vbproj.CoreCompileInputs.cache
+C:\Users\Roque\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\obj\Debug\es-ES\practica3.resources.dll
+C:\Users\Roque\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\obj\Debug\practica3.exe
+C:\Users\Roque\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\obj\Debug\practica3.xml
+C:\Users\Roque\Desktop\PreEvaluacion\Practica 3 BBDD\practica3\obj\Debug\practica3.pdb

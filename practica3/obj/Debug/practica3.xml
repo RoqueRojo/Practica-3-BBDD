@@ -1,0 +1,181 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+practica3
+</name>
+</assembly>
+<members>
+<member name="T:practica3.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources._3acdac0786ff283071d07756d03a7517">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources._812LdAPLxYL__AC_SL1500_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources._stop">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.acme">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.banner_uclm">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.btnempezar">
+<summary>
+  Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.bugsbunny">
+<summary>
+  Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.caja">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.Captura">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.Captura_jpg">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.Captura1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.catalogo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.catalogo1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.correcaminos">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.correcaminos_bip_bip_qVnvxMeZ">
+<summary>
+  Busca un recurso adaptado de tipo System.Byte[].
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.corres">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.coyote2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.CoyoteVSAcme_Correcaminos">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.CoyoteVSAcme_Correcaminos1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.equipo_acme">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.f86a954f550c45a3af14a2b645732022">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.índice">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.list_640px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.mecmec">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.SonidoMec">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.tren">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.tren2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.Wile__E__Coyote_Smiling_26499">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.wile_coyote_fast_and_furryous">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.wile_e_coyote_and_the_road_runner_looney_tunes_cartoon_others">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:practica3.My.Resources.Resources.Wile_E_Coyote_Blown_Up">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
